@@ -8,3 +8,5 @@ scipy==1.11.1
 seaborn==0.13.2
 tensorflow==2.16.1
 tensorflow_intel==2.16.1
+dlib==19.22.0
+scikit-image==0.18.3
